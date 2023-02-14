@@ -1,0 +1,4 @@
+This folder contains Arduino code of each of the individual sensors and 
+items which might be used in the project.
+
+The final project will be a combination of all or some of those parts. 
